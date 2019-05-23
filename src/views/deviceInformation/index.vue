@@ -3,6 +3,9 @@
     <div class="title">
       设备信息台账管理<span>*您可使用该功能对企业涉及的设备进行管理；</span>
     </div>
+    <div>
+      <img src="@/assets/img/pic1.png" alt="">
+    </div>
   </div>
 </template>
 

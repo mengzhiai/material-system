@@ -1,6 +1,9 @@
 <template>
   <div class="equipment-manage">
     <div class="title">设备备件管理</div>
+    <div>
+      <img src="@/assets/img/pic2.png" alt="">
+    </div>
   </div>
 </template>
 

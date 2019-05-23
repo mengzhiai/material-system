@@ -3,6 +3,9 @@
     <div class="title">
       个人劳保用品管理
     </div>
+    <div>
+      <img src="@/assets/img/pic4.png" alt="">
+    </div>
   </div>
 </template>
 

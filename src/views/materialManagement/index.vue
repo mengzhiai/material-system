@@ -3,6 +3,9 @@
     <div class="title">
       物资管理
     </div>
+    <div>
+      <img src="@/assets/img/pic3.png" alt="">
+    </div>
   </div>
 </template>
 
